@@ -100,7 +100,7 @@ body
 	height: 340px;
 	background: #f00;
 	border-radius: 50%;
-	background: url(wikipedia1.png);
+	background: url(Wiki.png);
 	background-size: cover;
     animation: earth 20s linear infinite;
     box-shadow: inset 0 0 20px #03A9F4,
